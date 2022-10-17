@@ -1,0 +1,17 @@
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\bin\Debug\netstandard2.0\NFC_App.deps.json
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\bin\Debug\netstandard2.0\NFC_App.dll
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\bin\Debug\netstandard2.0\ref\NFC_App.dll
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\bin\Debug\netstandard2.0\NFC_App.pdb
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\NFC_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\NFC_App.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\NFC_App.AssemblyInfo.cs
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\NFC_App.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\NFC_App.dll
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\ref\NFC_App.dll
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\NFC_App.pdb
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\NFC_App.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\seosconsult_app\NFC_App\NFC_App\obj\Debug\netstandard2.0\home.xaml.g.cs

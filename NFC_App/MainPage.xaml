@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NFC_App.MainPage"
+             Visual="Material"
+             BackgroundColor="#0e024d"
+             NavigationPage.HasNavigationBar="False"
+             >
+
+    <AbsoluteLayout>
+        <Image Source="GTLogoWitPNG.png" WidthRequest="180" HeightRequest="180" AbsoluteLayout.LayoutBounds="100, 120"/>
+        <Entry x:Name="UsernameInput" TextColor="White" Placeholder="Username" PlaceholderColor="White" WidthRequest="200" AbsoluteLayout.LayoutBounds="93, 410" />
+        <Entry x:Name="PasswordInput" TextColor="White" Placeholder="Password" PlaceholderColor="White" WidthRequest="200" AbsoluteLayout.LayoutBounds="93, 470" />
+        <Button Text="Login"
+                TextColor="White"
+                FontAttributes="Bold"
+                WidthRequest="190"
+                CornerRadius="29"
+                AbsoluteLayout.LayoutBounds="98, 550"
+                BackgroundColor="#0c0433"
+                BorderColor="White"                
+                />
+        <Label AbsoluteLayout.LayoutBounds="105, 610" FontSize="13" LineBreakMode="WordWrap">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Dont have an account?" TextColor="Gray"/>
+                    <Span Text=" Register" TextColor="Gray" FontSize="13" FontAttributes="Bold">
+                        <Span.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="GoToSecondPage" NumberOfTapsRequired="1"/>
+                        </Span.GestureRecognizers>
+                    </Span>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </AbsoluteLayout>
+</ContentPage>
